@@ -8191,7 +8191,7 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light .navbar-nav {
       padding-bottom: 10px; } }
   .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
-    font-size: 14px;
+    font-size: 18px;
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
     padding-left: 20px;
@@ -9711,7 +9711,8 @@ textarea.form-control {
     color: rgba(255, 255, 255, 0.7); }
   .block-23 ul li .icon, .block-23 ul li .text {
     display: table-cell;
-    vertical-align: top; }
+    vertical-align: top; 
+    font-size: 20px;}
   .block-23 ul li .icon {
     width: 40px;
     font-size: 18px;
@@ -9779,10 +9780,12 @@ textarea.form-control {
       border: 1px solid transparent; }
 
 .contact-section .contact-info p a {
-  color: #2f89fc; }
+  color: #2f89fc;
+font-size: 20px; }
 
 .contact-section .contact-info p span {
-  color: #000000; }
+  color: #000000; 
+  font-size: 20px}
 
 .contact-section .info {
   width: 100%; }
